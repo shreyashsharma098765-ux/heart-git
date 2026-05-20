@@ -28,4 +28,10 @@ Install the required libraries:
 pip install -r requirements.txt
 Run the Streamlit app:
 streamlit run app.py
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad2f8268-57e0-4847-a8cf-75130c339de6" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/2ef68d75-e012-4fb6-8de3-a37b0de6c1bd" />
+PERSON WITH LOW RISK OF HEART DISEASE
+
+<img width="1898" height="1073" alt="image" src="https://github.com/user-attachments/assets/3c0910f1-1293-4507-bb6e-d60296080322" />
+PERSON WITH HIGH RISK OF HEART DISEASE
+
+
